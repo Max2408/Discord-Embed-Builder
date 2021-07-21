@@ -14,3 +14,7 @@ Finally all setup is done and now you can run the project using `npm start`.
 The website will be avilable at `http://localhost:5555`.
 
 IF you find any bug or you have problem starting it you can join my [Support Server](https://discord.gg/BgWv28uQD4) and help me make this project better.
+
+## New Version 
+This repo is archived 
+New and Updated Version - https://github.com/Max2408/Embed-Builder
